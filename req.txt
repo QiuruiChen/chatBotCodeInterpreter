@@ -1,0 +1,8 @@
+streamlit
+hugchat
+streamlit-chat
+streamlit-extras
+plotly
+langchain
+openai
+python-dotenv
