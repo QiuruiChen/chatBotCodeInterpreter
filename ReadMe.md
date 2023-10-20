@@ -2,5 +2,5 @@
 
 ![Demo](demos/demo.gif)
 
-Using LangChain, AWS Cognito and Streamlit. 
-Please put your credentials under ".streamlit/secrets.toml" and "components/.env"!
+- Using LangChain, AWS Cognito and Streamlit. 
+- Please put your credentials under ".streamlit/secrets.toml" and "components/.env"!
