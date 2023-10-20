@@ -1,8 +1,8 @@
 # Talking to Your Data
 
-[Demo](demos/demo.mp4)
+![Demos](demos/demo.mp4)
 
-[Demo](demos/demo.gif)
+![Demo](demos/demo.gif)
 
 Using LangChain, AWS Cognito and Streamlit. 
 Please put your credentials under ".streamlit/secrets.toml" and "components/.env"!
